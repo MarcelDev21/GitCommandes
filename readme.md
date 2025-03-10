@@ -42,3 +42,7 @@ Creer une Branche et travaillez dessus
 ## git checkout -b feature/codeCss 
 
 Creer et vous deplacer vers la nouvelle branche
+
+## git pull
+
+Permet de recuperer les modifications distantes
