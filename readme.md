@@ -21,4 +21,12 @@ permet de pousser les modifications en ligne
 
 ## git status
 
-permet de lister les modifications a traiter et aussi vérifier le statut du repertoir
+permet de lister les modifications a traiter et aussi vérifier le statut du repertoire
+
+## git log
+
+permet de voir les modifications
+
+## git log --oneline
+
+permet de voir les modifications juste avec les noms
