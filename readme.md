@@ -4,7 +4,7 @@ Liste des commandes git
 
 ## git init
 
-permet d'initialiser un repertoire
+- permet d'initialiser un repertoire
 
 ## git add
 
