@@ -30,3 +30,15 @@ permet de voir les modifications
 ## git log --oneline
 
 permet de voir les modifications juste avec les noms
+
+## git branch feature/code-Html
+
+Creer une Branche et travaillez dessus
+
+## git checkout feat......
+
+Creer une Branche et travaillez dessus
+
+## git checkout -b feature/codeCss 
+
+Creer et vous deplacer vers la nouvelle branche
