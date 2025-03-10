@@ -8,12 +8,12 @@ permet d'initialiser un repertoire
 
 ## git add
 
-permet d'ajouter un fichier pour des modifications dans le stagging 
+- permet d'ajouter un fichier pour des modifications dans le stagging 
 
 ## git Commit
 
-permet d'enregistrer une modification
-Le message est important
+- permet d'enregistrer une modification
+- Le message est important
 
 ## git push
 
